@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Obasohan Kelly.
-- 👀 I’m into Web Design and Development.
+-  Web developer | HTML, CSS, JS, Python, React
+- Building responsive, user-friendly apps with clean, scalable code.
+- Let’s code something awesome.
 - 📫 How to reach me Via Kellyobasohan622@gmail.com
 - ⚡ Fun fact: LOVE❤️CODING.
 
